@@ -40,7 +40,7 @@ Plot the performance plot
 
 ## PROGRAM
 
-```
+```python
 import os
 import pandas as pd
 import numpy as np
